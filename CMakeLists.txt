@@ -6,3 +6,4 @@ find_package(ros_gz_bridge REQUIRED)
 install(DIRECTORY launch worlds config
   DESTINATION share/${PROJECT_NAME})
 ament_package()
+
