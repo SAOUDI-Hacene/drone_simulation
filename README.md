@@ -1,7 +1,6 @@
-# Drone Simulation Project
-هذا المشروع مخصص لمحاكاة درون باستخدام ROS 2 Jazzy.
+Ce projet est dédié à la simulation d'un drone en utilisant ROS 2 Jazzy.
 
-## تعليمات التشغيل:
+## Instructions d'exécution :
 ### Terminal 1
 source /opt/ros/jazzy/setup.bash
 source ~/drone_ws/install/setup.bash
